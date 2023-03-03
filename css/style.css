@@ -1,0 +1,47 @@
+*{
+  padding:0;
+  margin:0;
+  box-sizing:border-box;
+  }
+  .about{
+	  background-color: #000000;
+	  padding:25px;
+  }
+  .container{
+    width:90%;
+	margin: 0 auto ;
+  }
+  .row{
+	  display:flex;
+	  gap:2%;
+  }
+  .col{
+	  width:50%;
+  }
+  .head1{
+	  color:#f38d74;
+	  font-size:40px;
+	  padding-bottom:5px;
+  }
+  .head2{
+	  color:white;
+	  font-size:40px;
+	  	  padding-bottom:5px;
+  }
+  .para{
+	  color:gray;
+	  padding-bottom:50px;
+	  font-size:25px;
+  }
+  .card{
+	  display:flex;
+	  gap:2%;
+	  background-color:#f38d74;
+	  padding:10px;
+	  border-radius:5px;
+  }
+  .para1{
+	  color:white;
+	  font-size:25px;
+  }
+	  
